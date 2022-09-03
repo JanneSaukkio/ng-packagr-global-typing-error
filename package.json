@@ -1,0 +1,17 @@
+{
+  "name": "ng-packagr-global-typing-error",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "ng-packagr -p ng-package.json"
+  },
+  "dependencies": {
+    "@angular/compiler": "^14.2.0",
+    "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "@angular/compiler-cli": "^14.2.0",
+    "ng-packagr": "^14.2.0",
+    "typescript": "~4.7.2"
+  }
+}
